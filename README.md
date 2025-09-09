@@ -1,7 +1,7 @@
 # OPTIMIZING-USER-GROUP-AND-ROLE-MANAGEMENT-WITH-ACCESS-CONTROL-AND-WORKFLOWS
 
 
-#OPTIMIZING USER, GROUP, AND ROLE MANAGEMENT
+# OPTIMIZING USER, GROUP, AND ROLE MANAGEMENT
 
 WITH ACCESS CONTROL AND WORKFLOWS
 
@@ -16,7 +16,7 @@ Institution: St. Joseph’s College (Arts & Science)
 
 ---
 
-#Introduction
+# Introduction
 
 User, group, and role management is one of the most critical aspects of enterprise applications. When handled manually, it often leads to inconsistencies, unauthorized access, and workflow inefficiencies.
 
@@ -38,7 +38,7 @@ This project shows how ServiceNow’s low-code/no-code capabilities can extend b
 
 ---
 
-#Features
+# Features
 
 Custom Tables: User Profiles, Groups, Roles, and Access Control
 
@@ -58,21 +58,21 @@ Workflows: Approval-based role requests and provisioning
 
 ---
 
-#Project Explanation Videos
+# Project Explanation Videos
 
 All project demo videos are available in https://drive.google.com/file/d/1ilPmztkLsQtvNjRAuRL4FghQCqZ_2y6H/view?usp=drivesdk
 
 
 ---
 
-#Outcome
+# Outcome
 
 The project provides a secure, efficient, and automated solution for managing users, groups, and roles in an enterprise environment. It highlights how ServiceNow can be adapted for identity and access management (IAM), ensuring productivity, compliance, and workflow optimization.
 
 
 ---
 
-#Conclusion
+# Conclusion
 
 Through this project, our team gained hands-on experience in:
 
